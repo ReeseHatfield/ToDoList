@@ -1,5 +1,5 @@
 import javax.swing.*;
-import java.awt.*;
+
 
 public class ToDo {
     public static void main(String[] args) {new ToDo();}
@@ -14,7 +14,7 @@ public class ToDo {
 
         frame.getContentPane().add(root);
         frame.setSize(290,500);
-        frame.setResizable(true);
+        frame.setResizable(false);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
     }
