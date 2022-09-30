@@ -1,2 +1,2 @@
 # ToDoList
-A project I made for a ToDo list application in java swing
+A simple todo list made with JavaSwing
